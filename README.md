@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhi499&theme=gotham&show_icons=true)](https://github.com/vidhi499/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vidhi499&repo=github-readme-stats)](https://github.com/vidhi499/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi499)](https://github.com/vidhi499/github-readme-stats)
