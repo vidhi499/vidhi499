@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working at GeekyAnts[https://geekyants.com/] building NativeBase.
+-->
+
 
 
