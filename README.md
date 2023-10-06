@@ -1,5 +1,11 @@
 ### Hi there 👋, I am Vidhi
 
+Senior Software Engineer 
+@geekyants
+, Working on 
+@gluestack
+ ecosystem. Curious tech enthusiast and Miss Versatile (Give me a problem I'll give you a solution).
+
 <!--
 **vidhi499/vidhi499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
